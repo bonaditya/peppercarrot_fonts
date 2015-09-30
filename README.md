@@ -9,7 +9,7 @@ Fonts are sorted by "family":
 * Cyrilic (українська, Pусский)
 * Greek (ελληνικά)
 * Japanese (日本語)
-* Latin (Català, Deutsch, English, Español, Esperanto, Français, Italiano, Mexicano, Nederlands, Polski, Português)
+* Latin (Bahasa Indonesia, Català, Deutsch, English, Español, Esperanto, Français, Italiano, Mexicano, Nederlands, Polski, Português)
 * Sinhalese (සිංහල)
 * Vietnamese (Tiếng Việt)
 * Chinese simplified (简体中文)
